@@ -17,8 +17,6 @@
 
 Tweakz Optimisation est un outil complet permettant d'optimiser automatiquement Windows et le BIOS. L'IA analyse votre configuration matérielle, détecte les goulots d'étranglement et propose des valeurs ajustées pour des performances optimales.
 
----
-
 ## 🛠️ Stack technique
 
 ### 🖥️ Desktop (Installer)
