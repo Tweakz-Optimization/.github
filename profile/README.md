@@ -49,8 +49,6 @@ Tweakz Optimisation est un outil complet permettant d'optimiser automatiquement 
 - 🖥️ **Optimisation BIOS** - Ajustements automatiques recommandés
 - 🔄 **Mises à jour automatiques** - Toujours à jour
 
----
-
 ## 📫 Contact
 
 <a href="https://tweakzopti.xyz" target="_blank">
