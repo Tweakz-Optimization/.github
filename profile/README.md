@@ -19,13 +19,13 @@ Tweakz Optimisation est un outil complet permettant d'optimiser automatiquement 
 
 ## 🛠️ Stack technique
 
-### 🖥️ Desktop (Installer)
+### 🖥️ Installer
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET WPF](https://img.shields.io/badge/.NET_WPF-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-### 📱 Application principale (App)
+### 📱 Application principale
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET WPF](https://img.shields.io/badge/.NET_WPF-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -49,9 +49,16 @@ Tweakz Optimisation est un outil complet permettant d'optimiser automatiquement 
 - 🖥️ **Optimisation BIOS** - Ajustements automatiques recommandés
 - 🔄 **Mises à jour automatiques** - Toujours à jour
 
+---
+
+<div align="center">
+
 ## 👀 Découvrir
 
 <a href="https://tweakzopti.xyz" target="_blank">
   <img src="https://img.shields.io/badge/Site_web-A44C00?style=for-the-badge&logo=googlechrome&logoColor=white&color=A44C00"/>
 </a>
+
+</div>
+
 </div>
