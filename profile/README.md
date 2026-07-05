@@ -49,13 +49,9 @@ Tweakz Optimisation est un outil complet permettant d'optimiser automatiquement 
 - 🖥️ **Optimisation BIOS** - Ajustements automatiques recommandés
 - 🔄 **Mises à jour automatiques** - Toujours à jour
 
-## 📫 Contact
+## 👀 Découvrir
 
 <a href="https://tweakzopti.xyz" target="_blank">
   <img src="https://img.shields.io/badge/Site_web-A44C00?style=for-the-badge&logo=googlechrome&logoColor=white&color=A44C00"/>
 </a>
-<a href="https://github.com/Tweakz-Optimization" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-A44C00?style=for-the-badge&logo=github&logoColor=white&color=A44C00"/>
-</a>
-
 </div>
